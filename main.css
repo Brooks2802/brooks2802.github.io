@@ -1,0 +1,17 @@
+body{
+	background-color: grey;
+}
+h1{
+	text-align: center;
+}
+img{
+	width: 250px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+hr{
+	color:black;
+}
+.first-cat{
+	text-align: center;
+}
